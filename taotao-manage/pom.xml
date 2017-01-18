@@ -25,7 +25,7 @@
 		<module>taotao-manage-pojo</module>
 		<module>taotao-manage-web</module>
 	</modules>
-	<build>
+	 <build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
@@ -36,5 +36,5 @@
                 </configuration>
 			</plugin>
 		</plugins>
-	</build>
+	</build> 
 </project>
